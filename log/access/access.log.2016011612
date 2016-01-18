@@ -1,0 +1,16 @@
+::1 - - [16/Jan/2016:12:45:00 ] "GET /book/12 HTTP/1.1" 404 20 - - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 12.178
+::1 - - [16/Jan/2016:12:45:10 ] "GET /book HTTP/1.1" 404 17 - - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 2.280
+::1 - - [16/Jan/2016:12:45:23 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 1.344
+::1 - - [16/Jan/2016:12:46:55 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 9.187
+::1 - - [16/Jan/2016:12:46:57 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 2.562
+::1 - - [16/Jan/2016:12:46:59 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 1.396
+::1 - - [16/Jan/2016:12:47:01 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 0.992
+::1 - - [16/Jan/2016:12:47:05 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 0.778
+::1 - - [16/Jan/2016:12:51:17 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 8.592
+::1 - - [16/Jan/2016:12:51:19 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 1.943
+::1 - - [16/Jan/2016:12:51:21 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 1.153
+::1 - - [16/Jan/2016:12:51:22 ] "GET / HTTP/1.1" 404 13 - - Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36 0.961
+::1 - - [16/Jan/2016:12:52:12 ] "GET /home/book HTTP/1.1" 404 22 - - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 1.400
+::1 - - [16/Jan/2016:12:52:18 ] "GET /home/book/1 HTTP/1.1" 404 24 - - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 2.846
+::1 - - [16/Jan/2016:12:54:35 ] "GET /home/book HTTP/1.1" 404 22 - - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 6.003
+::1 - - [16/Jan/2016:12:54:39 ] "GET /home/index HTTP/1.1" 404 23 - - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 0.954

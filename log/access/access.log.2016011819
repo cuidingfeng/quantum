@@ -1,0 +1,4 @@
+::1 - - [18/Jan/2016:19:50:55 ] "GET /index HTTP/1.1" 200 - - - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 36.106
+::1 - - [18/Jan/2016:19:51:19 ] "GET /index HTTP/1.1" 200 - - - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 8.811
+::1 - - [18/Jan/2016:19:51:35 ] "GET /index HTTP/1.1" 200 - http://localhost:8085/index - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 7.343
+::1 - - [18/Jan/2016:19:51:40 ] "GET /index HTTP/1.1" 200 - http://localhost:8085/index - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36 7.928
