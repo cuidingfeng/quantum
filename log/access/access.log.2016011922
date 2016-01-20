@@ -1,0 +1,2 @@
+::1 - - [19/Jan/2016:22:00:53 ] "GET /watch HTTP/1.1" 200 10 - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 5.664
+::1 - - [19/Jan/2016:22:00:53 ] "GET /favicon.ico HTTP/1.1" 404 24 http://localhost:8085/watch - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 2.933

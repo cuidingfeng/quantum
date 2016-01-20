@@ -1,0 +1,11 @@
+::1 - - [20/Jan/2016:22:24:20 ] "GET / HTTP/1.1" 200 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 32.405
+::1 - - [20/Jan/2016:22:24:44 ] "GET /watch HTTP/1.1" 304 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 422.675
+::1 - - [20/Jan/2016:22:24:45 ] "GET /favicon.ico HTTP/1.1" 404 24 http://localhost:8085/watch - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 6.183
+::1 - - [20/Jan/2016:22:28:09 ] "GET /watch HTTP/1.1" 304 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 8.389
+::1 - - [20/Jan/2016:22:28:42 ] "GET /watch HTTP/1.1" 304 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 5.746
+::1 - - [20/Jan/2016:22:30:21 ] "GET /watch HTTP/1.1" 304 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 14.636
+::1 - - [20/Jan/2016:22:30:24 ] "GET /watch HTTP/1.1" 304 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 5.805
+::1 - - [20/Jan/2016:22:30:26 ] "GET /watch HTTP/1.1" 304 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 4.431
+::1 - - [20/Jan/2016:22:50:39 ] "GET / HTTP/1.1" 500 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 29.323
+::1 - - [20/Jan/2016:22:51:10 ] "GET / HTTP/1.1" 200 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 13.662
+::1 - - [20/Jan/2016:22:57:00 ] "GET / HTTP/1.1" 200 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 43.896

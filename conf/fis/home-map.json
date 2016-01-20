@@ -40,6 +40,10 @@
         "home:widget/message/message.tpl": {
             "uri": "home/widget/message/message.tpl",
             "type": "tpl"
+        },
+        "home:static/js/jquery-2.2.0.min.js": {
+            "uri": "/static/home/static/js/jquery-2.2.0.min.js",
+            "type": "js"
         }
     },
     "pkg": {}

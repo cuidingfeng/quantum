@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="icon" href="/static/favicon.ico">
         <title>量子</title>
-        {% require "home:static/js/jquery-1.10.2.js" %}
+        {% require "home:static/js/jquery-2.2.0.min.js" %}
     {% endhead %}
 
     {% body %}
