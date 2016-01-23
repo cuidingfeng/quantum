@@ -7,6 +7,8 @@ var path = require('path');
 var mkdirp = require('mkdirp');
 var PORT = parseInt(process.argv[2]) || 8999;
 
+var saveRootPath = "e:/work/testsave";
+
 var server = http.createServer(function (req, res) {
     
     function error(err) {
@@ -40,7 +42,8 @@ var server = http.createServer(function (req, res) {
             if (err) {
                 error(err);
             } else {
-                var to = fields['to'];
+                var to = saveRootPath + fields['to'];
+                console.log(to);
                 fs.exists(to, function (exists) {
                     if (exists) {
                         fs.unlink(to, function (err) {

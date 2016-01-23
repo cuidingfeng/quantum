@@ -1,0 +1,5 @@
+::1 - - [23/Jan/2016:19:21:36 ] "GET / HTTP/1.1" 200 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 32.825
+::1 - - [23/Jan/2016:19:51:39 ] "GET /watch?method=add HTTP/1.1" 500 - http://localhost:8085/ - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 679.982
+::1 - - [23/Jan/2016:19:52:44 ] "GET /watch?method=add HTTP/1.1" 500 - http://localhost:8085/ - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 86.451
+::1 - - [23/Jan/2016:19:53:50 ] "GET /watch?method=add HTTP/1.1" 500 - http://localhost:8085/ - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 89.393
+::1 - - [23/Jan/2016:19:54:45 ] "GET /watch?method=add HTTP/1.1" 500 - http://localhost:8085/ - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 14.284

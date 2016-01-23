@@ -1,0 +1,2 @@
+::1 - - [23/Jan/2016:22:12:19 ] "GET / HTTP/1.1" 200 - - - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 48.118
+::1 - - [23/Jan/2016:22:12:22 ] "GET /watch?method=add HTTP/1.1" 304 - http://localhost:8085/ - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 7.134

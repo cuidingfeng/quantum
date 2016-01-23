@@ -1,5 +1,5 @@
 var chokidar = require('chokidar');
-var util = require('util');
+var deploy = require('deploy');
 var path = require('path');
 
 var patterns, root, watchPaths = [];
@@ -102,9 +102,11 @@ function watch(watchPath) {
     .watch(root, opts)
     .on('add', function(path){
       console.log("add:"+path);
+      deploy(root, path);
     })
     .on('change', function(path){
       console.log("change:"+path);
+      deploy(root, path);
     })
     .on('unlink', function(path){
       console.log("unlink:"+path);

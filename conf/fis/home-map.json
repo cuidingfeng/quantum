@@ -22,6 +22,10 @@
             "uri": "/static/home/static/js/index.js",
             "type": "js"
         },
+        "home:static/js/jquery-2.2.0.min.js": {
+            "uri": "/static/home/static/js/jquery-2.2.0.min.js",
+            "type": "js"
+        },
         "home:static/js/lazyload.js": {
             "uri": "/static/home/static/js/lazyload.js",
             "type": "js"
@@ -40,10 +44,6 @@
         "home:widget/message/message.tpl": {
             "uri": "home/widget/message/message.tpl",
             "type": "tpl"
-        },
-        "home:static/js/jquery-2.2.0.min.js": {
-            "uri": "/static/home/static/js/jquery-2.2.0.min.js",
-            "type": "js"
         }
     },
     "pkg": {}
